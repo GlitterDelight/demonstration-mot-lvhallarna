@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (2aeb623e1d, 2025-05-12)"
+   sodipodi:docname="affisch.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.50585813"
+     inkscape:cx="145.29765"
+     inkscape:cy="637.53052"
+     inkscape:window-width="1854"
+     inkscape:window-height="1011"
+     inkscape:window-x="66"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="102.79562"
+       y="237.22066"
+       width="255.01221"
+       height="39.536776"
+       id="rect9" />
+    <rect
+       x="67.21252"
+       y="55.351487"
+       width="656.3105"
+       height="160.12395"
+       id="rect3" />
+    <rect
+       x="49.420971"
+       y="61.282004"
+       width="642.47262"
+       height="266.87324"
+       id="rect2" />
+  </defs>
+  <g
+     inkscape:label="Bakgrund"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <rect
+       style="fill:#d10000;fill-opacity:1;stroke-width:0.262963"
+       id="rect1"
+       width="210.00397"
+       height="297.05591"
+       x="0.12877829"
+       y="-0.046192206" />
+    <rect
+       style="opacity:0.896369;fill:#ffdd55;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.66922;stroke-dasharray:none;stroke-opacity:1"
+       id="rect30"
+       width="196.05345"
+       height="284.57776"
+       x="6.9732742"
+       y="6.2111206" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Text">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1"
+       x="80.024925"
+       y="140.4622"
+       id="text10"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         style="font-size:25.4px;stroke-width:0.265"
+         x="80.024925"
+         y="140.4622">Nej</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text9"
+       style="fill:#000000;text-align:start;writing-mode:lr-tb;text-orientation:auto;direction:ltr;fill-opacity:1;font-size:37.33333333px;stroke:none;stroke-opacity:1;stroke-width:1.0015748;stroke-dasharray:none;opacity:1;-inkscape-font-specification:'Liberation Mono, Normal';font-family:'Liberation Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill-rule:nonzero;white-space:pre;shape-inside:url(#rect9)"
+       transform="scale(0.26458333)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:96.8383;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.210679;stroke-dasharray:none;stroke-opacity:1"
+       x="13.827809"
+       y="58.053478"
+       id="text8"
+       transform="translate(41.84309,140.46252)"><tspan
+         x="13.827809"
+         y="58.053478"
+         id="tspan1">till Älvhallarna</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:96.8383;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.210679;stroke-dasharray:none;stroke-opacity:1"
+       x="13.827809"
+       y="58.053478"
+       id="text4"
+       transform="translate(47.073476,37.946814)"><tspan
+         x="13.827809"
+         y="58.053478"
+         id="tspan2">Folket har sagt </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.4px;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.210679;stroke-dasharray:none;stroke-opacity:1"
+       x="11.181978"
+       y="33.021168"
+       id="text7"
+       inkscape:label="text7"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:23.9889px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.210679"
+         x="11.181978"
+         y="33.021168"
+         id="tspan26">DEMONSTRATION</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.4px;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.210679"
+         x="11.181978"
+         y="64.771164"
+         id="tspan7" /></text>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.764401;stroke-dasharray:none;stroke-opacity:1"
+       id="rect10"
+       width="26.387531"
+       height="23.609898"
+       x="87.752686"
+       y="150.77748" />
+    <g
+       id="g26"
+       transform="matrix(2.0724678,0,0,2.0724678,-163.86686,-326.23058)"
+       style="opacity:0.89636925">
+      <path
+         style="opacity:1;fill:#d10000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         id="path12"
+         d="m 120.16153,228.44417 c 4.42285,4.40486 8.93879,8.71352 13.49642,12.97824 2.65104,2.47371 1.40208,1.28535 3.75337,3.55827 0,0 3.49339,1.43901 3.49339,1.43901 v 0 c -2.40813,-2.30384 -1.13114,-1.10186 -3.83745,-3.59904 -4.51897,-4.19878 -9.00255,-8.43834 -13.2876,-12.8778 z" />
+      <path
+         style="opacity:1;fill:#d10000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         id="path13"
+         d="m 136.9625,227.89 c -3.37446,2.7517 -7.03877,5.10585 -10.68665,7.47087 -3.87838,2.52766 -7.82837,4.96324 -11.52196,7.76013 0,0 3.26662,2.0601 3.26662,2.0601 v 0 c 3.62178,-2.84194 7.51232,-5.31836 11.37446,-7.81607 3.696,-2.36351 7.40058,-4.71344 10.89803,-7.36852 z" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7556px;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;opacity:1;fill:#d10000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.711;stroke-dasharray:none;stroke-opacity:1"
+       x="22.73173"
+       y="62.391006"
+       id="text29"
+       inkscape:label="text7"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7556px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d10000;fill-opacity:1;stroke:#000000;stroke-width:0.711;stroke-dasharray:none;stroke-opacity:1"
+         x="22.73173"
+         y="62.391006"
+         id="tspan28">FÖR FOLKVILJAN</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7556px;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono Bold';fill:#d10000;fill-opacity:1;stroke:#000000;stroke-width:0.711;stroke-dasharray:none;stroke-opacity:1"
+         x="22.73173"
+         y="87.08551"
+         id="tspan29" /></text>
+  </g>
+</svg>
