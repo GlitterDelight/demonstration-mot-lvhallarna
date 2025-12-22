@@ -10,7 +10,7 @@
    inkscape:version="1.4.2 (2aeb623e1d, 2025-05-12)"
    sodipodi:docname="affisch.svg"
    xml:space="preserve"
-   inkscape:export-filename="../f8564f7f/affisch.pdf"
+   inkscape:export-filename="../69838bfa/affisch.jpg"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -27,12 +27,12 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="0.34771291"
-     inkscape:cx="766.43688"
-     inkscape:cy="550.7417"
-     inkscape:window-width="1228"
-     inkscape:window-height="731"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:cx="764.99892"
+     inkscape:cy="547.86577"
+     inkscape:window-width="1854"
+     inkscape:window-height="1011"
+     inkscape:window-x="66"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer2" /><defs
      id="defs1"><rect
@@ -200,11 +200,11 @@
        transform="translate(7.182877,65.863822)"><tspan
          x="13.827809"
          y="58.053478"
-         id="tspan4">till
+         id="tspan1">till
 </tspan><tspan
          x="13.827809"
          y="70.400702"
-         id="tspan5">Älvhallarna</tspan></text><text
+         id="tspan2">Älvhallarna</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:96.8383;display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.210679;stroke-dasharray:none;stroke-opacity:1"
        x="13.827809"
@@ -213,7 +213,7 @@
        transform="translate(5.9201495,15.625131)"><tspan
          x="13.827809"
          y="58.053478"
-         id="tspan8">Folket har sagt </tspan></text><g
+         id="tspan3">Folket har sagt </tspan></text><g
        id="g37"
        transform="translate(-57.93484,-34.16242)"><text
          xml:space="preserve"
@@ -324,7 +324,7 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.3333px;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono Bold';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect6);fill:#000000"><tspan
          x="16.416016"
          y="1016.1881"
-         id="tspan9">Riotorget, Ljusdal 20 jan kl 18.00</tspan></text></g><style
+         id="tspan4">Riotorget, Ljusdal 20 jan kl 18.00</tspan></text></g><style
      type="text/css"
      id="style1">
 	.st0{fill:#FFED00;}
